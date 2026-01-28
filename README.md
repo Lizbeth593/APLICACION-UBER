@@ -7,7 +7,7 @@ La aplicación de Uber esta diseñada para tener un control de todos los pedidos
    https://github.com/Lizbeth593/APLICACION-UBER/blob/main/uber.exe
 2. Ejecutar el archivo previamente descargado.
 
-## Funcionalidad 
+## Funcionalidad del sistema
 El programa se podrá visualizar mediante una ventana de consola la cual te permitirá realizar diferentes funciones como:
  1) Registrar pedidos
  2) Mostrar pedidos
