@@ -1,6 +1,5 @@
 # Aplicacion Uber 
 La aplicación de Uber esta diseñada para tener un control de todos los pedidos.
-<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/0caa83a2-dfdf-45b8-907c-ff691bb16d87" />
 
 ## Ejecución del programa
 1. Descargar el archivo .exe mediante el link. 
